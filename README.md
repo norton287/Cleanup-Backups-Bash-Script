@@ -1,5 +1,5 @@
 
-# clean_backups.sh: Your Backup Cleanup Superhero!
+# cleanup_backups.sh: Your Backup Cleanup Superhero!
 
 Tired of old backups cluttering your precious storage? Let `clean_backups.sh` swoop in and save the day!
 
